@@ -44,7 +44,7 @@ azure-iot-realtime/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/azure-iot-realtime.git
+git clone https://github.com/ppavank83/azure-iot-realtime-dashboard.git
 cd azure-iot-realtime
 ```
 
