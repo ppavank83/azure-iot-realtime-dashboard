@@ -98,7 +98,7 @@ MIT License
 
 ---
 
-## 🗄️ How to Set Up MongoDB on Azure Cosmos DB
+## How to Set Up MongoDB on Azure Cosmos DB
 
 1. **Go to [Azure Portal](https://portal.azure.com/)**
    - Search for **"Cosmos DB"** and click **"Create"**
