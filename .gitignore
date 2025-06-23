@@ -1,0 +1,59 @@
+# =========================
+# Python Cache & Bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# =========================
+# Azure Functions (local)
+# =========================
+local.settings.json
+secrets/
+host.json.backup
+*.log
+
+# =========================
+# MongoDB/Cosmos (local/test data)
+# =========================
+*.db
+*.sqlite
+data/
+*.bson
+
+# =========================
+# Dash Temporary or Cache
+# =========================
+__temp__/
+__cache__/
+*.pkl
+*.sav
+
+# =========================
+# Node Modules (if used for frontend assets)
+# =========================
+node_modules/
+dist/
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
